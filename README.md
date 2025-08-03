@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://github.com/ppsyoon/ppsyoon/blob/main/banner-patricia.png" alt="Banner Patrícia Silva" />
+</p>
+
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨+Bem-vindo+ao+meu+portfólio!;👩‍💻+Patrícia+Silva+-+Data+Engineer+Júnior;📊+Python,+SQL,+PySpark,+AWS,+Databricks+em+ação;🚀+Experiência+com+pipelines,+Airflow+e+Data+Lakes;💡+Transformando+dados+em+decisões+valiosas;🎯+Conteúdo+tech+e+muita+curiosidade;🌈+Vamos+crescer+com+dados!&center=true&color=00aaff&width=580&height=50&font=Fira+Code&pause=2000)](https://git.io/typing-svg)
