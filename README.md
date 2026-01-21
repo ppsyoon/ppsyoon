@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/ppsyoon/ppsyoon/blob/main/banner-patricia.png" alt="Banner Patrícia Silva" />
-</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨+Bem-vindo+ao+meu+portfólio!;👩‍💻+Patrícia+Silva+-+Estudante+de+Engenharia+de+Software;📚+Focada+em+Lógica,+Python+e+SQL;🚀+Construindo+projetos+pessoais+e+acadêmicos;💡+Em+transição+de+carreira+para+Tech;🌈+Vamos+evoluir+juntos!&center=true&color=00aaff&width=580&height=50&font=Fira+Code&pause=2000)](https://git.io/typing-svg)
 
